@@ -19,7 +19,7 @@ var conn = mysql.createConnection({
     host:"localhost",
     user:"TeamProject17",
     password:"TeamProject17EWAMSHA?",
-    database:"WineShope"
+    database:"WineShop"
 });
 
 conn.connect(function(err){
